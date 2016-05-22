@@ -19,11 +19,13 @@ RUN apt-get -qy install git vim-tiny curl wget pwgen \
   python-setuptools && \
   apt-get -q autoclean
 
+RUN apt-get -qy install vim
+
 # drush: instead of installing a package, pull via composer into /opt/composer
 # http://www.whaaat.com/installing-drush-7-using-composer
 RUN curl -sS https://getcomposer.org/installer | php && \
     mv composer.phar /usr/local/bin/composer && \
-    COMPOSER_HOME=/opt/composer composer --quiet global require drush/drush:dev-master && \
+    COMPOSER_HOME=/opt/composer composer --quiet global require drush/drush:8.* && \
     ln -s /opt/composer/vendor/drush/drush/drush /bin/drush
 # Add drush comand https://www.drupal.org/project/registry_rebuild
 RUN wget http://ftp.drupal.org/files/projects/registry_rebuild-7.x-2.2.tar.gz && \
@@ -114,10 +116,6 @@ RUN chmod 755 /opt/postfix.sh
 ### Custom startup scripts
 RUN easy_install supervisor
 
-# Retrieve drupal: changed - now in start.sh to allow for makes too.
-# Push down a copy of drupal
-ADD ./files/drupal-7  /tmp/drupal
-
 ADD ./files/webfact_status.sh /tmp/webfact_status.sh
 ADD ./files/supervisord.conf /etc/supervisord.conf
 ADD ./files/supervisord.d    /etc/supervisord.d
@@ -136,6 +134,7 @@ WORKDIR /var
 # Automate starting of mysql+apache, allow bash for debugging
 RUN chmod 755 /start.sh /etc/apache2/foreground.sh
 EXPOSE 80
+EXPOSE 3306
 CMD ["/bin/bash", "/start.sh"]
 
 LABEL Description="Docker for Drupal Websites. Ubuntu 14.04 mysql+apache+drupal/composer/drush..." Version="1.2"
@@ -144,3 +143,5 @@ LABEL Description="Docker for Drupal Websites. Ubuntu 14.04 mysql+apache+drupal/
 # - "DEBIAN_FRONTEND noninteractive" should be prefixed on each line to avoid a default
 # - add more labels
 
+ADD ./tantaweb.sql /tantaweb.sql
+ADD ./files/web /files

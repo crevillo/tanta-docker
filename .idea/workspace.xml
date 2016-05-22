@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ea3439a-d3c5-43ee-87be-f376c5b2312c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/00.00_Home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/00.02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/00_home_v2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/01_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/01_Viajar_home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/01_subhome-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/01_subhome-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/02.10._Repositorio-de-empresas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/02_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/03.10.10.3_Red-Universidades.-Oficina-Universidad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/03_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/03_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/04_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/05_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/0_Home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/13_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/16_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/17_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/1_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/1_HOME.v2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/1_Home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/1_home copia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/2 copia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/20_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/24_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/24_0_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/25_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/30_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/3_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/3_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/4_.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/5260fcda9d29c910e6000156-1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Acciona_brasileiro_Sostenibilidad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/BadgeReady.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Bestdoctors-interior.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura de pantalla 2013-02-27 a la(s) 13.55.50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura_1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura_1_1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Captura_3_0.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Detalle_Libro_Fundacion_Confemetal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Detalle_Video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Distributiva_Formacion_Fundacion_Confemetal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Distributiva_Libros_Fundacion_Confemetal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/EFL_Home_Tanta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/EFL_Logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Extranet-Alain-Afflelou_experiencias_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/FRC HOME.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/FRC INTERIOR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/HAB_tienda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Home2 copia1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Home_Fundacion_Confemetal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Home_Memoria_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Home_blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/IMG_0778_0.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/IMG_0779_0.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/IMG_0780_0.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/IMG_0781_0.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 10_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 10_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 11_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 11_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 13_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 13_0_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 13_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 14_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 14_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 8_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 8_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Imagen 9_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/LAC.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/LDAc-Home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/LogoNavieros250x250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Logo_entelgy_positivo_GO-FOR-IT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/PSOE-Crea-Progreso_experiencias.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Plantilla grupo seleccionado.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Plantilla grupo seleccionado_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Plus-Ultra-Seguros.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Post_blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Q6D1W3ZpiGzMOGvUML4g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Rediseno-web-Fotogramas_experiencias.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/SATSE INTERIOR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/SIGRE_Presidente__0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/SIGRE_home_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/SIGRE_principales_magnitudes_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Screenshot_2012-09-24-17-50-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Screenshot_2012-09-24-17-50-11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Screenshot_2012-09-24-17-50-24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/Screenshot_2012-09-24-17-50-45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/ZGZ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/aa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/accesibilidadweb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona logo_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona logo_0_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona tv home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona_airport.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona_br.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona_brasileiro_lineas-de-negocios.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona_ingenieria_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/acciona_redes_sociales_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/aurorecupera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/autorecupera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/bestdoctors-home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/bestdoctors_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/betcars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/bienvenida.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/blog_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/bodega_directa_ficha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/bodega_directa_tienda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/captura home guia del ocio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/captura limpiezas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/captura_2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/carlos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/caser asistencia home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/caser asistencia interior.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/comoparticipar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_0h4WCW9sfx8DlG04P-NleM2zll-xuQ0DEuh1nnw4FNw.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_6K_yMPHO9p80yBJD9oEQh4BVucRdNeC74Yk7SJliM1s.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_AGDzd3vFrwLRPU9P3btvBDs6PuGG9_NYfsP3YzWMmQ4.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_GA8nIBKBYqMAszTC_7dgTOYVJa4v0lU0qyjJfNeQx48.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_KItg7WrUxDRAR7z6ThqVcuaq3_kBt-tduhwSBATuCm0.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Lv_X1miRjSM2Z_RgbQrW2C4SuGqjFUkpZ3rDjs7e7WE.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Nt4ubdtc10J6FMmNEo_CjC0FcDAQ7QYyfD-toH2b40o.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_P41bTW4UvXRjkHb-Vppk6Htny1gvZumPoAg2vZ-Scjc.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_ZCQvBfst4aHv_MvJzxxXwUxgFBMWUGvULHXSBXmgHEo.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css__0B-nhMnNiWsTOwE0I5zMdp_5Tmzgt7i_WPka13aeBw.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_hKGUVCK6qY6g-9_hU25nNGZ1--Yh6BjV8VMDVekohLI.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_tLRq0GlT6Z8C8Zz4LX0AGo95PZtZiO1GKtqFknqlfIk.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_wsDqVzgoDeZY550MwAfrJ8ixTr8QllGVdUZRPRKiviw.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_zK72-b6vfmaWB0-rJ1kPTuIMeQ1GMmhvuabgTvTgalg.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/cuore stilo_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/cuore stilo_interior.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/direct_seguros.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/drupal-association-organisation-member1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/drupal1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/dsc07493.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/dsc07493_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/ecars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/editorial_borrmart.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/efe verde home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/efe verde interior.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/ez-logo_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/for_you_ing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/foto 001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/foto_perfil_santi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/gmr-logo-jpg90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/groupama-home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/groupama-interior.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/guia_ser_interior.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/guia_ser_reumatologia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/guia_ser_subhome.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home lefevbre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home viajar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home_grupos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home_grupos_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home_nueva_identidad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/home_v9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/iab_p.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/icono_redemprendia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/image_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/interior guia del ocio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/interior lefevbre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/interior publica_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/interior viajar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/interior_noticia_v6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/intranet_nueva_interior.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/intranet_nueva_v2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/israel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/joana_g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_-zsxNByY5L7CJiRQIsrGlS9NhdZMC6lbL-9K15gjogk.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_0YoduX-vQws3jEELCWewLGRahZpULczPC3HfiTLBn90.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_14U87XBaIqlbve6gkLOs5Qx75Pp2G_qHcyNrJgcANVY.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_1V5z4pdzf6IZPd_lXBZTWeh-hjE8zxbfmmIf1qkxAaI.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_63FGVgaIJopVCMCMpFb4KuQAwIdKX3VvENV1raUdJHg.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_6iAtH5d4nTpHboO6FumqDzqbihvu-dZIrYBUCdZq5Ck.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_7pbEwN5LILwIldErOKmym29EfRvDdwH3xkeIa7YU9Tc.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_7rmHVr9lGImBI7EqZSsJrzniq-SWLUGTKmePnbsElRI.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_AYtFs3eloO5fpJ3zVFw7lh26MeCH-puse7YiAXWyOlE.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_B_mU-NKLqp6m-VurU0EuNe3lnXEYNhM8dFo5_M_7Wbk.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_EnamPmdwfO3dPFptq-a_0psMq2BP5vGuE3pxAxlx_TM.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_F68hkn8fulYcnqksUrZySs_fLMClNVYCKiVUJn7_s2Q.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_H7ilw5bRiNCFj-BMBleGAE0HCi3x2wGpMRhGT-y5xZk.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_HHcwoNyaOMLJC2r4zGeTtSF0UQA16fLn2VCo2vGn4ao.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ISRPlbhKCgb1ZvEmBSi5hdA8WB0oi4Z9Bgf43j-4ujs.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ITtxcJXKvE6bFnRKZQ7zeyaK4nrqtu4oBhJStaRvwIc.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_K0PW3ZsOz_4NqmBCTdriyhhWbErhOnA7II7zCcsizoM.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_L2J2u4dVcjklh33vIj5RAiV69pz94syfgdgnZySVjc8.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_MxFY-Pw6FqfNNlCKYlcZJLNO-g2-22OyUeuqA_IjT_Y.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ONZfZsTlswqWzCz3NctHNkW-F3dAeV-YEWikx7WFP9Y.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_R4bcJAOnw10jbqt7mxZ2p69gTHYehYd8ghEYcTq3D_c.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ReM5t94G7N4UGOtSS3znhDXKkKBTHavLsRSolbh6C-0.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_SOm1ZnbTCVtIM6bNj3cEJAOaMAj1AZwL2OWER0yxHsU.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_TT6qjVL8RhrmeOZxR-0rLgvjBnXgBmTIQV0p-_RETmo.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_T_IOyhoVipF2iqQqlT5py8d31Qdb1C3LPlIKZAu7emk.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VSOfvOlrMJ-ehaqeDFHUs79SD3ohs6mX08HEIhxNRVY.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_WK0wlXh9lCAr6iX8QfryQv7BE3GEJbl5It1kigMgv3w.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_XBGCr_R__9GRjIP4UlW0s563XmEE915DxeQHlU8mtOQ.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_XzqJq1cnpnLxPmKiXCx4AU-VTVcyrKGCluR3zzXWqg4.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Y82X9A-y1M-gKpMH3DSO1U66Rj7R0fNq59AxVDxeUiA.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Z74hBBKgkTjEkZF9zI-GR9eTtLkZ-t6D_XPj4GWkchE.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Z9rzawGQItKva5mdUB8BisdWoYczbtTosYXp7xqctOo.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ZZvJnOtIbYVgn-s_ye_ZkGQ8jSiQ9o0jmaSJlWlNue4.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ZpGa0kbXPwLg3quz9RIqj2jFehshCyZe68GPoPL427w.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_aJbPyfMzQuifZ2BHD2am9ubGwjXtJZbFnReXD4yF_5k.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_bI45E20xhZ7HrTZclN6aQBZf2xqQZVenpU_NCUOCiac.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_h7_uX3yV5Ravtie4YWsJDDWXHfXATRZAKL2-4Fyapeg.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_jEE28ahVGYEbV_0BfF47lPv5IHapc_xQk0Yr4i9P5I8.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_l-5pRKUTLysuvS_m8MQ0yokel50A9cLjUNC5GFMaGkQ.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_mR8FQ_0VbPYJ3mqTGtpNd-gwaxspQSa7utRDblVWi1M.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_mtFjT8FgMrNVctBvbo-Q-G1E6PZRytYaGBLZdu3H32s.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_pMbUapa0-J62lzAUAW-ewiO_K_BpviAHKHhLzHYxGO4.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_rEQcnHXUuZ2_twqHJvkphSKXhmhbR76uLkkPgeBr61E.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_tvZneuMzD-8XHOYdZC7Ybc4FyxCSoG488E8Xl2orMb8.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_uLuSvlKo39aZjkChri4fwK3L9Cri4EcNfeQZHCkiG5g.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_wKmcixnX1pykCW5dSTnU6G75SVBv9VqeAgbOIpOucXQ.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/la foto(1).PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/lidera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/linea-directa-logo_clientes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-acciona_clientes_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-club-del-regalo_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-groupama-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-mpc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-paypal-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-psoe_clientes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-ser.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-sinc_clientes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo-sinc_clientes_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logoFC.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo_EFE.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo_ING_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo_aui.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/logo_nationale-nederlanden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mobile_marketing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/movil_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.atqdaiys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.bmfkhnja.320x480-75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.eulaxygl.320x480-75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.gqbefgcn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.prbfpgpd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.vmdnowaz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/mzl.yorjesdy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/notariado_home_nueva_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/oscar_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/perfil agente.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/portada_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/privada interior regalo_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/privada regalos_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/prosodie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/psoe progreso home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/rea de clientes - Inicio_1326373308345.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/rea de clientes - Mis polizas_1326373400756.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/reale.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/red de seguridad captura.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/regalos-kindle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/regalos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/santiago-de-blas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/screenshotcopia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/seguridad laboral captura.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/seguritecnia captura.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/sempo_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/sigre-logo-bueno.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/sprite_slider.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/subhome_memoria_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/tantacom_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/timthumb.php_.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/travel club home_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/travel_mall.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/travel_mall_categoria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/travel_mall_home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/unnamed1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/unnamed1_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/unnamed3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/unoe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/videos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/web_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/webapp  subhome_regalos_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/webapp cuenta_menu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/webapp cuenta_puntos_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/webapp home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/webapp_memoria_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/woman.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/www.callezaragoza.es 2012-1-24 17_54_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/www.callezaragoza.es 2012-1-24 17_54_54.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/www.callezaragoza.es 2012-1-24 17_55_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/www.callezaragoza.es 2012-1-24 17_55_55.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/zanox.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/config_-wtJ4AHUOjUIdB8DGXfPLTGDMlrAhBLh_2sV6qQ3GuQhuq2qPE92Bob5WlIPwi7T6k3UqBoeGQ/sync/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/config_-wtJ4AHUOjUIdB8DGXfPLTGDMlrAhBLh_2sV6qQ3GuQhuq2qPE92Bob5WlIPwi7T6k3UqBoeGQ/sync/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_0h4WCW9sfx8DlG04P-NleM2zll-xuQ0DEuh1nnw4FNw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_6K_yMPHO9p80yBJD9oEQh4BVucRdNeC74Yk7SJliM1s.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_AGDzd3vFrwLRPU9P3btvBDs6PuGG9_NYfsP3YzWMmQ4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_GA8nIBKBYqMAszTC_7dgTOYVJa4v0lU0qyjJfNeQx48.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_KItg7WrUxDRAR7z6ThqVcuaq3_kBt-tduhwSBATuCm0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Lv_X1miRjSM2Z_RgbQrW2C4SuGqjFUkpZ3rDjs7e7WE.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Nt4ubdtc10J6FMmNEo_CjC0FcDAQ7QYyfD-toH2b40o.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_P41bTW4UvXRjkHb-Vppk6Htny1gvZumPoAg2vZ-Scjc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_ZCQvBfst4aHv_MvJzxxXwUxgFBMWUGvULHXSBXmgHEo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css__0B-nhMnNiWsTOwE0I5zMdp_5Tmzgt7i_WPka13aeBw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_hKGUVCK6qY6g-9_hU25nNGZ1--Yh6BjV8VMDVekohLI.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_oLoewJLPFbWKGXqNDrYRklQWJf2be7iNS1Jd8NBvq-U.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_tLRq0GlT6Z8C8Zz4LX0AGo95PZtZiO1GKtqFknqlfIk.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_wsDqVzgoDeZY550MwAfrJ8ixTr8QllGVdUZRPRKiviw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/css/css_zK72-b6vfmaWB0-rJ1kPTuIMeQ1GMmhvuabgTvTgalg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_-zsxNByY5L7CJiRQIsrGlS9NhdZMC6lbL-9K15gjogk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_0YoduX-vQws3jEELCWewLGRahZpULczPC3HfiTLBn90.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_14U87XBaIqlbve6gkLOs5Qx75Pp2G_qHcyNrJgcANVY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_1V5z4pdzf6IZPd_lXBZTWeh-hjE8zxbfmmIf1qkxAaI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_63FGVgaIJopVCMCMpFb4KuQAwIdKX3VvENV1raUdJHg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_6iAtH5d4nTpHboO6FumqDzqbihvu-dZIrYBUCdZq5Ck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_7pbEwN5LILwIldErOKmym29EfRvDdwH3xkeIa7YU9Tc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_7rmHVr9lGImBI7EqZSsJrzniq-SWLUGTKmePnbsElRI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_AYtFs3eloO5fpJ3zVFw7lh26MeCH-puse7YiAXWyOlE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_B_mU-NKLqp6m-VurU0EuNe3lnXEYNhM8dFo5_M_7Wbk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_EnamPmdwfO3dPFptq-a_0psMq2BP5vGuE3pxAxlx_TM.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_F68hkn8fulYcnqksUrZySs_fLMClNVYCKiVUJn7_s2Q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_H7ilw5bRiNCFj-BMBleGAE0HCi3x2wGpMRhGT-y5xZk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_HHcwoNyaOMLJC2r4zGeTtSF0UQA16fLn2VCo2vGn4ao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ISRPlbhKCgb1ZvEmBSi5hdA8WB0oi4Z9Bgf43j-4ujs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ITtxcJXKvE6bFnRKZQ7zeyaK4nrqtu4oBhJStaRvwIc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_K0PW3ZsOz_4NqmBCTdriyhhWbErhOnA7II7zCcsizoM.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_L2J2u4dVcjklh33vIj5RAiV69pz94syfgdgnZySVjc8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_MxFY-Pw6FqfNNlCKYlcZJLNO-g2-22OyUeuqA_IjT_Y.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ONZfZsTlswqWzCz3NctHNkW-F3dAeV-YEWikx7WFP9Y.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_R4bcJAOnw10jbqt7mxZ2p69gTHYehYd8ghEYcTq3D_c.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ReM5t94G7N4UGOtSS3znhDXKkKBTHavLsRSolbh6C-0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_SOm1ZnbTCVtIM6bNj3cEJAOaMAj1AZwL2OWER0yxHsU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_TT6qjVL8RhrmeOZxR-0rLgvjBnXgBmTIQV0p-_RETmo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_T_IOyhoVipF2iqQqlT5py8d31Qdb1C3LPlIKZAu7emk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VSOfvOlrMJ-ehaqeDFHUs79SD3ohs6mX08HEIhxNRVY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_WK0wlXh9lCAr6iX8QfryQv7BE3GEJbl5It1kigMgv3w.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_XBGCr_R__9GRjIP4UlW0s563XmEE915DxeQHlU8mtOQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_XzqJq1cnpnLxPmKiXCx4AU-VTVcyrKGCluR3zzXWqg4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Y82X9A-y1M-gKpMH3DSO1U66Rj7R0fNq59AxVDxeUiA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Z74hBBKgkTjEkZF9zI-GR9eTtLkZ-t6D_XPj4GWkchE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_Z9rzawGQItKva5mdUB8BisdWoYczbtTosYXp7xqctOo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ZZvJnOtIbYVgn-s_ye_ZkGQ8jSiQ9o0jmaSJlWlNue4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_ZpGa0kbXPwLg3quz9RIqj2jFehshCyZe68GPoPL427w.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_aJbPyfMzQuifZ2BHD2am9ubGwjXtJZbFnReXD4yF_5k.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_bI45E20xhZ7HrTZclN6aQBZf2xqQZVenpU_NCUOCiac.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_h7_uX3yV5Ravtie4YWsJDDWXHfXATRZAKL2-4Fyapeg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_jEE28ahVGYEbV_0BfF47lPv5IHapc_xQk0Yr4i9P5I8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_l-5pRKUTLysuvS_m8MQ0yokel50A9cLjUNC5GFMaGkQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_mR8FQ_0VbPYJ3mqTGtpNd-gwaxspQSa7utRDblVWi1M.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_mtFjT8FgMrNVctBvbo-Q-G1E6PZRytYaGBLZdu3H32s.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_pMbUapa0-J62lzAUAW-ewiO_K_BpviAHKHhLzHYxGO4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_rEQcnHXUuZ2_twqHJvkphSKXhmhbR76uLkkPgeBr61E.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_tvZneuMzD-8XHOYdZC7Ybc4FyxCSoG488E8Xl2orMb8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_uLuSvlKo39aZjkChri4fwK3L9Cri4EcNfeQZHCkiG5g.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/js/js_wKmcixnX1pykCW5dSTnU6G75SVBv9VqeAgbOIpOucXQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/languages/es_y4cTgDGIRahEq8JGu30USlsn_KyT61lTZKHqArLbmVY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_container.html.twig_ac60389ef3af296e8c1c6b230d7187fa74b4e5bdca020c266512ba2e7ee9a5e2/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_container.html.twig_ac60389ef3af296e8c1c6b230d7187fa74b4e5bdca020c266512ba2e7ee9a5e2/5e5488c9f02cec75284cca2c30f5ebd5ba30851f0c67a4516acce1e409e76f8e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--created.html.twig_d8915be927f6f8762f993ce1c791bdda0cbccc9df86191917ad72420ecf788aa/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--created.html.twig_d8915be927f6f8762f993ce1c791bdda0cbccc9df86191917ad72420ecf788aa/cc448004d172bfaf15acdcd4e9982e4306ca02ef664d5da243972c0b19cc3854.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--title.html.twig_cb856d3f3b256936edf4ba364cb86a7d47595c612c55f029b1cc05b26d526c15/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--title.html.twig_cb856d3f3b256936edf4ba364cb86a7d47595c612c55f029b1cc05b26d526c15/b4347021bf44aa42b0659a51f4571c75e9bc22dc5e9053589ff53fc3401c8160.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--uid.html.twig_c24aa67eee8adcf007a2964411cd3033feb0658c8b056d36c684a6c149ac4284/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--node--uid.html.twig_c24aa67eee8adcf007a2964411cd3033feb0658c8b056d36c684a6c149ac4284/418c01c6c25fa81ee4a88e6b24d6b8633ea5f75d686656f756a2892457d2f353.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--text-with-summary.html.twig_199fe14cf8686f3b568f6af0c381c0418bc1e55768a97a3e21a54bd5cb04c053/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--text-with-summary.html.twig_199fe14cf8686f3b568f6af0c381c0418bc1e55768a97a3e21a54bd5cb04c053/5a4e648322d154bf344fcfd6b9d69a0c602a9c8b10790ff8005abc10a07c8c9a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--text.html.twig_411a2445287a1421ea433a281bfd570c3051bee0c4fda78f38ab7d3f34cc9f68/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field--text.html.twig_411a2445287a1421ea433a281bfd570c3051bee0c4fda78f38ab7d3f34cc9f68/1a0f5076d05de6a4ddcc0f28a7500169bd9b5278123b0be2b751483904fe6a13.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field.html.twig_b20d1a34364dac1daa2576502a1d41c95a3ec4f4a1f99aeb01aded02857ad4c3/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_field.html.twig_b20d1a34364dac1daa2576502a1d41c95a3ec4f4a1f99aeb01aded02857ad4c3/ec8f73e30ada58bfd6303fc3f4abc484316a1be997ff8cd44ebf6a7884b15701.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_html.html.twig_6ae5753fd3c6aedf62a0a1ff99ee8703e6d1338936e195e50116bc12a90e4dce/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_html.html.twig_6ae5753fd3c6aedf62a0a1ff99ee8703e6d1338936e195e50116bc12a90e4dce/f9d4b002cf9d5e47e5dff429760233b7c65abff3322242e70513d5ad3c45151e.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_inline-template_4fec6157f4cd349de23bbc0a2b6ae697c88ec2a9daec1a11717a33011ed0f10c/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_inline-template_4fec6157f4cd349de23bbc0a2b6ae697c88ec2a9daec1a11717a33011ed0f10c/b716fa7c98e804d8f11dfc75213e5ac34c3a45a6c340121ec4833e5f9678794c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_links--node.html.twig_8f910ff6be881b441c9ea97c8a1e3803ed5845ef50571488addc98f212f5682a/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_links--node.html.twig_8f910ff6be881b441c9ea97c8a1e3803ed5845ef50571488addc98f212f5682a/fdc8f6b3bb13dc90c7eeb041d02cf431af143778a1ce078e8f01a7aadee8f765.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_links.html.twig_a3ca5f002b90d502ed409a2c336c9a4e2198737021db945ad4ead5c2546e2031/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_links.html.twig_a3ca5f002b90d502ed409a2c336c9a4e2198737021db945ad4ead5c2546e2031/f79cdb84404f52c2f583d05abd10747372ffa0a261638b9672cc409c0127dd9f.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_menu--toolbar.html.twig_e98a4c66f29008d26c1dad0120b4cb01b11aec5c10ea369a41487686fdefc3f8/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_menu--toolbar.html.twig_e98a4c66f29008d26c1dad0120b4cb01b11aec5c10ea369a41487686fdefc3f8/95d675eb86cb8b7652bf9dcf2fe536aad60d60d45d1b939030bd16025d4c58fc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_node.html.twig_84b721c4cb92bd8c0d228ae6adaa919028cf53c794bc3c52bca993210c661e5a/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_node.html.twig_84b721c4cb92bd8c0d228ae6adaa919028cf53c794bc3c52bca993210c661e5a/8c41a2b16a342babf96dd3af03ae5a0a1823c3e8eaee12bd63ea867cc89e48dc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_page.html.twig_e8c237c198082cfe9496350fe249401fdb42546d9ab86a191394e3051e815d1d/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_page.html.twig_e8c237c198082cfe9496350fe249401fdb42546d9ab86a191394e3051e815d1d/67f034a9c7f42a1eb379391563df3dd4be56b60b135c452de3444c3c720284d9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_rdf-metadata.html.twig_e7bb098bc3daab7ecab165a3e1cf5d29a24e4178f55e76215602b5a089740727/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_rdf-metadata.html.twig_e7bb098bc3daab7ecab165a3e1cf5d29a24e4178f55e76215602b5a089740727/e191da3f12a6765bb58891c17031c3bc350b5f2986ebbc0f4f3462252b1fbd1b.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_toolbar.html.twig_5b17755082cc9e22d5e66bdc47443c40739d19037c17a9be28adbcd38521cbeb/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_toolbar.html.twig_5b17755082cc9e22d5e66bdc47443c40739d19037c17a9be28adbcd38521cbeb/29c48518e2f333fdfecb6fda95c663873d33d26338ee8ab24166b3c3d49dec8a.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_user.html.twig_f993008648ca99afb14a1b86f7952a49f50f4d1b82255cc9b2c71da7fcce763f/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_user.html.twig_f993008648ca99afb14a1b86f7952a49f50f4d1b82255cc9b2c71da7fcce763f/4940bbbbb56596d8e7abf4b799c5adfaee4b09893ee63b8ef0183856c4ca9e70.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_username.html.twig_59b04fb7abec3bc1555e91505819cd2b0178e27c5afdd8fcca8d38b235a453b9/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/php/twig/8b326dfa_username.html.twig_59b04fb7abec3bc1555e91505819cd2b0178e27c5afdd8fcca8d38b235a453b9/2f1ae3f472d76e2ea9c72482ba22289e089f797a0de3c89fc42ebfafd4157717.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/web/tanta-8/translations/drupal-8.1.x.es.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/start.sh" afterPath="$PROJECT_DIR$/start.sh" />
+    </list>
+    <ignored path="docker-drupal.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="docker-drupal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2286">
+              <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/start.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="308" column="4" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/start.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docker-drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docker-drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docker-drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docker-drupal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docker-drupal" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files/web/tanta-8" />
+      <recent name="$PROJECT_DIR$/files/web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea3439a-d3c5-43ee-87be-f376c5b2312c" name="Default" comment="" />
+      <created>1463759053213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463759053213</updated>
+      <workItem from="1463759062355" duration="10363000" />
+      <workItem from="1463772150469" duration="6230000" />
+      <workItem from="1463833062629" duration="1537000" />
+      <workItem from="1463910272440" duration="542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18672000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26693228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2286">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2286">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2286">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2286">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="308" column="4" selection-start-line="308" selection-start-column="4" selection-end-line="308" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,286 @@
+﻿<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Example Campaign Monitor HTML email template</title>
+	<style type="text/css" media="screen">
+		body {
+			margin: 0;
+			padding: 0;
+		}
+		a {
+			color: #cc0000;
+		}
+		td.permission {
+			font-family: Georgia, serif;
+			font-size: 11px;
+			font-weight: normal;
+			color: #333333;
+			padding: 20px 0 10px 0;
+		}
+		td.permission a {
+			font-family: Georgia, serif;
+			font-size: 11px;
+			font-weight: normal;
+			color: #000000;
+		}
+		td.header {
+			height: 75px;
+			border-top: 1px dotted #d5d5d5;
+			border-bottom: 1px dotted #d5d5d5;
+		}
+		td.header h1 {
+			font-family: Georgia;
+			font-size: 44px;
+			font-weight: bold;
+			color: #000000;
+			display: inline;
+		}
+		table.sidebar td {
+			border-bottom: 1px dotted #d5d5d5;
+			padding: 20px 0 20px 0;
+		}
+		h4.meta {
+			font-family: Georgia;
+			font-size: 12px;
+			font-weight: normal;
+			color: #999999;
+			margin: 0;
+			padding: 0;
+			text-transform: uppercase;
+		}
+		table.sidebar ul {
+			margin: 0 0 0 24px;
+			padding: 0;
+		}
+		table.sidebar ul li a {
+			font-family: Arial;
+			font-size: 12px;
+			font-weight: normal;
+			color: #cc0000;
+		}
+		table.sidebar h3 {
+			font-family: Georgia;
+			font-size: 18px;
+			font-weight: normal;
+			color: #000000;
+			margin: 0 0 10px 0;
+			padding: 0;
+		}
+		table.sidebar p {
+			font-family: Georgia;
+			font-size: 12px;
+			font-weight: normal;
+			color: #000000;
+			margin: 0 0 12px 0;
+			padding: 0;
+		}
+		table.sidebar p.miniheader {
+			font-family: Georgia;
+			font-size: 12px;
+			font-weight: bold;
+			color: #000000;
+			margin: 0 0 4px 0;
+			padding: 0;
+		}
+		td.mainbar h2 {
+			font-family: Georgia;
+			font-size: 18px;
+			font-weight: normal;
+			color: #000000;
+			margin: 20px 0 8px 0;
+			padding: 0;
+		}
+		td.mainbar h2 a {
+			font-family: Georgia;
+			font-size: 18px;
+			font-weight: normal;
+			color: #000000;
+			text-decoration: none;
+		}
+		td.mainbar p {
+			font-family: Georgia;
+			font-size: 13px;
+			font-weight: normal;
+			color: #333333;
+			margin: 0 0 20px 0;
+			padding: 0;
+		}
+		td.mainbar p.top {
+			padding: 0 0 6px 0;
+			border-bottom: 1px dotted #d5d5d5;
+		}
+		td.mainbar p.top a {
+			font-family: Georgia;
+			font-size: 10px;
+			font-weight: normal;
+			color: #cc0000;
+		}
+		td.mainbar ul {
+			font-family: Georgia;
+			font-size: 13px;
+			font-weight: normal;
+			color: #333333;
+		}
+		td.footer {
+			font-family: Georgia;
+			font-size: 11px;
+			font-weight: normal;
+			color: #333333;
+			padding: 10px 0 10px 0;
+		}
+		td.footer span {
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td align="center"><table width="580" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td align="center" class="permission">
+						<p>You're receiving this newsletter because you bought widgets from us.</p>
+					
+						<!--	#################################
+				  				TAGS USED BELOW:
+				  				- <webversion>Web Version</webversion> - When clicked takes subscriber to the web version of your email
+								- <unsubscribe>Unsubscribe</unsubscribe> - When clicked will unsubscribe subscriber
+								#################################
+						-->
+						
+						<p>Having trouble reading this email? <webversion>View it on your browser</webversion>. Not interested anymore? <unsubscribe>Unsubscribe Instantly</unsubscribe>.</p></td>
+				</tr>
+				<tr>
+					<td class="header" height="77"><img src="header.gif" width="580" height="77" alt="ABC Widgets" /></td>
+				</tr>
+				<tr>
+					<td><table width="580" border="0" cellspacing="20" cellpadding="0">
+							<tr>
+								<td width="316" align="left" valign="top" class="mainbar">
+								
+									<!--	#################################
+											TAGS USED BELOW:
+											- <currentdayname> - Shows day spelled out (ex. Monday)
+											- <currentday> - Shows day in numbers (ex. 31st)
+											- <currentmonthname> - Shows month spelled out (ex. August)
+											- <currentyear> - Shows year (ex. 2009)
+											#################################
+									-->
+									
+									<h4 class="meta"><currentdayname> <currentday>, <currentmonthname> <currentyear></h4>
+									
+									<!--	#################################
+											TAGS USED BELOW:
+											- <re peater toc= 'true'>Description</re peater> 
+												- Allows you to easily add blocks of content to this email through the editor
+												- toc= 'true' - Used in combination with <tableofcontents></tableofcontents> to generate a table of contents
+											- <singleline label="Title">Enter your title</singleline>
+												- Adds an editable title to this block of content
+												- link='true' - Allows you to add a link to this title via the editor
+												- default='Enter your title' - Allows you to set the default text to be shown in the editor
+											- <$imagesrc link='false'$>
+												- Allows you to add an editable image to this block of content
+												- link='false' - Prevents you from adding a link to this image
+											- <multiline label="Description"><p>Enter your description</p></multiline>
+												- Provides an editable textarea to this block of content
+												- default='<p>Enter your description</p>' - Allows you to set the default text for this description
+											#################################
+						  			-->
+									
+									<repeater>
+										<h2>
+											<singleline label="Title" repeatertitle="true">Enter your title</singleline>
+										</h2>
+										<img editable="true" label="Image" width="72" alt="Main Content Inline Small" align="left" hspace="10">
+										<multiline label="Description"><p>Enter your description</p></multiline>
+										<p class="top"><a href="#top">back to top</a></p>
+									</repeater>
+								</td>
+								<td width="192" align="left" valign="top"><h4 class="meta">In this issue</h4>
+									<table width="192" border="0" cellspacing="0" cellpadding="0" class="sidebar">
+										<tr>
+											<td>
+												
+												<!--	#################################
+														TAGS USED BELOW:
+														- <tableofcontents>Description</tableofcontents> - Container for table of contents
+														- <repeatertitle> - Shows a list of titles that have been added to this email through the editor
+														#################################
+												-->
+												
+												<ul>
+													<tableofcontents>
+														<li>
+															<repeatertitle>
+														</li>
+													</tableofcontents>
+												</ul>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												
+												<!--	#################################
+														TAGS USED BELOW:
+														- <re peater>description</re peater> - Allows you to add blocks of content
+														- <singleline label="Title">Enter your title</singleline>
+															- Adds an editable title to this block of content
+															- link='true' - Allows you to add a link to this title
+															- default='Enter your title' - Allows you to set the default text for this title
+														- <multiline label="Description"><p>Enter your description</p></multiline>
+															- Allows you to add a description to this block of content
+															- default='<p>Enter your description</p>' - allows you to set the default text for this description
+														#################################
+												-->
+												
+												<h3>Also this month</h3>
+												<repeater>
+													<p class="miniheader"><singleline label="Title">Enter your title</singleline></p>
+													<multiline label="Description"><p>Enter your description</p></multiline>
+												</repeater>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												
+												<!--	#################################
+														TAGS USED BELOW:
+														- <forwardtoafriend>forward to a friend</forwardtoafriend> - Adds a link to the forward to a friend form for this email
+														#################################
+												-->
+												
+												<h3>Forward to a friend</h3>
+												<p><img src="forward.gif" width="66" height="83" alt="Forward" align="left"> Know someone who might be interested in the email? Why not <forwardtoafriend>forward this email to a friend</forwardtoafriend>.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												
+												<!--	#################################
+														TAGS USED BELOW:
+														- <unsubscribe>unsubscribe</unsubscribe> - Adds a link that when clicked unsubscribes the subscriber
+														#################################
+												-->
+												
+												<h3>Unsubscribe</h3>
+												<p><img src="unsubscribe.gif" width="66" height="59" alt="Unsubscribe" align="left"> If you no longer wish to receive this email <unsubscribe>please unsubscribe</unsubscribe>.</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top" class="footer">
+						abcWidgets and the abcWidgets Logo are registered trademarks of <span>abcWidgets Corp</span>.<br>
+						ABCWidgets Corp - 123 Some Street, City, ST 99999. ph +1 4 1477 89 745
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
