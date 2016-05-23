@@ -95,13 +95,15 @@ ENV \
   ## Default Drupal settings
   DRUPAL_SITE_NAME="My Drupal Site" DRUPAL_SITE_EMAIL=drupal@example.ch \
   DRUPAL_ADMIN=admin DRUPAL_ADMIN_PW=admin \
-  DRUPAL_ADMIN_EMAIL=root@example.ch
+  DRUPAL_ADMIN_EMAIL=root@example.ch \
   #by default no second user  
   #DRUPAL_USER1=admin2 DRUPAL_USER1_PW=admin2 DRUPAL_USER1_EMAIL=drupal@example.ch ENV DRUPAL_USER1_ROLE=administrator
 
   # Run a custom command after the site is installed
   # Example: get, enable and run the production check module
   #DRUPAL_FINAL_CMD="drush -y dl prod_check && drush -y en prod_check && drush -y cache-clear drush && drush -y prod-check-prodmode"
+
+  DRUPAL_LOCAL_FOLDER=$HOME/$DRUPAL_VERSION;
 
 # /ENV
 
@@ -144,4 +146,6 @@ LABEL Description="Docker for Drupal Websites. Ubuntu 14.04 mysql+apache+drupal/
 # - add more labels
 
 ADD ./tantaweb.sql /tantaweb.sql
-ADD ./files/web /files
+ADD ./tantacom-8.sql /tantacom-8.sql
+ADD ./files/web/tanta-6 /files/tanta-6
+ADD ./files/web/tanta-8 /files/tanta-8

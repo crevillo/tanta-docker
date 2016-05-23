@@ -300,21 +300,30 @@ if [[ ! -f $www/sites/default/settings.php ]] && [[ ! -f /drupal-db-pw.txt ]]   
   # if custom db provided import, put files in folder
   echo "11. need import db"
   if [[ ${CUSTOM_DB} ]]; then
-    echo "enable short_open tags"
-    sed -i 's/short_open_tag = Off/short_open_tag = On/g' /etc/php5/apache2/php.ini
     echo "importing db"
     mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} < ${CUSTOM_DB}
-    echo "reseting admin user pass"
-    mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'UPDATE tan_users SET PASS=MD5("${DRUPAL_ADMIN_PW}") WHERE uid=1'
     echo "adding files"
-    cp -R /files ./sites/default/
-    cat > ./sites/default/settings.php << EOF
+    mkdir sites/default/files
+    if [[ ${DRUPAL_VERSION} -eq "drupal-6" ]]; then
+        echo "reseting admin user pass"
+        mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'UPDATE tan_users SET PASS=MD5("${DRUPAL_ADMIN_PW}") WHERE uid=1'
+        echo "enable short_open tags"
+        sed -i 's/short_open_tag = Off/short_open_tag = On/g' /etc/php5/apache2/php.ini
+        cp -R /files/tanta-6/* ./sites/default/files/
+        cat > ./sites/default/settings.php << EOF
 <?php
 \$db_url = 'mysql://${MYSQL_USER}:${MYSQL_PASSWORD}@${MYSQL_HOST}/${MYSQL_DATABASE}';
 \$db_prefix = 'tan_';
 EOF
+    else
+    cp -R /files/tanta-8/* ./sites/default/files/
+    echo "reseting admin user pass for d8"
+    NEW_PW="$(php core/scripts/password-hash.sh '${DRUPAL_ADMIN_PW}' | sed -n -e 's/^.*hash: //p')"
+    echo "new PASSWORD -${NEW_PW}-"
+    mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'UPDATE users_field_data SET PASS="${NEW_PW}" WHERE uid=1'
+    mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'DELETE FROM cache_entity WHERE cid = "values:user:1"';
+    fi
   fi
-
 
   echo "80" > $buildstat
   ## </drupal>
@@ -332,6 +341,14 @@ EOF
 
 else 
   echo "09. Site already installed or DB exists: no installation needed."
+    /usr/bin/mysqld_safe --skip-syslog &
+    echo "reseting admin user pass for d8"
+    cd $www
+    NEW_PW="$(php core/scripts/password-hash.sh '${DRUPAL_ADMIN_PW}' | sed -n -e 's/^.*hash: //p')"
+    echo "new PASSWORD -${NEW_PW}-"
+    mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'UPDATE users_field_data SET PASS="${NEW_PW}" WHERE uid=1'
+    mysql -u ${MYSQL_USER} -p${MYSQL_PASSWORD} --host=${MYSQL_HOST} ${MYSQL_DATABASE} -e'DELETE FROM cache_entity WHERE cid = "values:user:1"';
+    killall mysqld
 fi
 
 
